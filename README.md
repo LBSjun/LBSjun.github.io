@@ -1,40 +1,16 @@
 # LBSjun.github.io
-# Pygros
 
-An open-source fanmade chart emulator of rhythm game [Phigros](https://pigeon-games.com/phigros). 
+屑LBSjun的github.io
 
-## Requirements
+## 联系
 
-[Cocos2d(Python)](http://python.cocos2d.org/)
++ 抖音: [@LBSjun](https://www.douyin.com/user/MS4wLjABAAAA761wz67ULCRwFYYDM45B3szmfeqKRg74c0KPxaIQVOo)
++ 抖音: [@F0rge](https://www.douyin.com/user/MS4wLjABAAAAUML18B7oC3lyzUV-3InaQOsskF4_l8E7j7ie_Ff_3ZI)
++ QQ: [F0rge](https://qm.qq.com/cgi-bin/qm/qr?k=7XY3rxX6fQnuCo0lOGhJlHUJEG7wGRa9&noverify=0)
 
-Install it by running:
-```shell script
-pip install cocos2d
-```
-
-## Demo
-
-```shell script
-python demo.py
-```
-
-## License
-
-Source code (unless stated otherwise) is distributed under [MIT](https://opensource.org/licenses/MIT) license. See [LICENSE](LICENSE) for more information.
-
-Font `Electrolize` by [Cyreal](www.cyreal.org) is licensed under [SIL Open Font License](http://scripts.sil.org/OFL)
-
-## Meta
-
-Present by [water_lift](https://github.com/AsakuraMizu)
-
-+ Email: [0xWATERx0@gmail.com](mailto:0xWATERx0@gmail.com)
-+ 爱发电: [@water_lift](https://afdian.net/@water_lift)
-
-And finally,
+## 咕咕咕
 
 ```
-Long Live the Pigeon Games
 WWWWWW@=+:+#WWWWWWWWWWWWWWWWWWWWWWWWWWW
 WWWW*.@WWWWW@::WWWWWWWWWWWWWWWWWWWWWWWW
 WWW:=WWWWWWWWW=.WWWWWWWWWWWWWWWWWWWWWWW

@@ -1,0 +1,55 @@
+@font-face {
+    font-family:exo;
+    src:url("https://codehs.com/uploads/a8c22f8608c74cfe9fdab9954faef647")；
+}
+
+body {
+    font-family:exo;
+    background-color: #e3f2fd;
+}
+
+.page {
+    padding:50px;
+    color: black;
+}
+
+h1 {
+    color:#ffbb00;
+    font-size:50px;
+    font-weight:bolder;
+    padding-bottom:50px;
+}
+
+p {
+    font-size:20px;
+}
+
+.btn-gray:before {
+    background-color:#dedede;
+    border-radius: 15px;
+}
+
+.btn-block {
+    display:block;
+}
+
+.btn-gray {
+    width:50%;
+    padding-top:15px;
+    margin-top:20px;
+    margin-left:auto;
+    margin-right:auto;
+    background-color:#dedede;
+    color: black;
+    border: 3px solid white;
+    border-radius: 15px;
+    position:center;
+    text-align:center;
+    transition: background-color 0.7s, border-radius 0.5s;
+}
+
+.btn-gray:hover {
+  background-color: #999999;
+  border-radius: 0px;
+  transition: background-color 0.7s, border-radius 0.5s;
+}

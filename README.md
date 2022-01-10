@@ -4,9 +4,11 @@
 
 ## 联系
 
-+ 抖音: [@LBSjun](https://www.douyin.com/user/MS4wLjABAAAA761wz67ULCRwFYYDM45B3szmfeqKRg74c0KPxaIQVOo)
-+ 抖音: [@F0rge](https://www.douyin.com/user/MS4wLjABAAAAUML18B7oC3lyzUV-3InaQOsskF4_l8E7j7ie_Ff_3ZI)
++ 抖音: [LBSjun](https://www.douyin.com/user/MS4wLjABAAAA761wz67ULCRwFYYDM45B3szmfeqKRg74c0KPxaIQVOo)
++ 抖音: [F0rge](https://www.douyin.com/user/MS4wLjABAAAAUML18B7oC3lyzUV-3InaQOsskF4_l8E7j7ie_Ff_3ZI)
++ B站: [F0rge](https://space.bilibili.com/1877686494)
 + QQ: [F0rge](https://qm.qq.com/cgi-bin/qm/qr?k=7XY3rxX6fQnuCo0lOGhJlHUJEG7wGRa9&noverify=0)
++ Github: [LBSjun](https://github.com/LBSjun)
 
 ## 咕咕咕
 

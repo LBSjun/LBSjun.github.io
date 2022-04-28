@@ -1,6 +1,6 @@
 # LBSjun.github.io
 
-屑LBSjun的github.io
+屑LBSjun的GitHub Page
 
 ## 联系
 
